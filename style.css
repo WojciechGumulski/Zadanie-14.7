@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Bangers');
+
+body {
+	background-color: lightgreen;
+	text-align: center;
+	font-family: Bangers;
+}
+
+img {
+	height: 150px;
+	float: left;
+	margin-left: 10px;
+}
+
+.contactItem {
+	margin: 0 auto;
+	margin-top: 25px;
+	border: 1px solid black;
+	box-shadow: 3px 3px 3px;
+	max-width: 500px;
+	height: 150px;
+}
+
+p, a {
+	font-size: 20px;
+}
+
+input {
+	margin-top: 50px;
+	height: 35px;
+	text-align: center;
+}
+
+button {
+	height: 35px;
+}
